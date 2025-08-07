@@ -11,7 +11,7 @@
     <!-- Bootstrap CSS -->
     <link
       rel="stylesheet"
-      href="https://cdn. jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
       integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
       crossorigin="anonymous"
     />
@@ -23,7 +23,7 @@
     <div class="jumbotron">
       <h1 class="display-4">
         Hello DevOps Students of RMIT Vietnam! [This is a new commit 2025] [This
-        is another commit 2025]
+        is another commit 2025] [This is another commit for docker]
       </h1>
       <p class="lead">
         This is a very simple website template that uses bootstrap CSS
